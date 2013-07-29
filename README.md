@@ -6,3 +6,7 @@ Esempio di programma in ambiente Scratch per insegnare la programmazione a bambi
 ##Variazioni
 
 Inserire un numero massimo di colpi da sparare
+
+##Screenshot
+
+![screenshot](screenshot.png)
