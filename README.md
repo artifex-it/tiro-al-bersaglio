@@ -5,7 +5,7 @@ Esempio di programma in ambiente Scratch 1.4 (dovrebbe funzionare anche in ambie
 
 ##Variazioni
 
-Inserire un numero massimo di colpi da sparare
+<strike>Inserire un numero massimo di colpi da sparare</strike>
 
 ##Screenshot
 
